@@ -1,2 +1,6 @@
 1st commit to file1 from master
 Commit after creating pull request
+
+Commit 2 after creating pull request
+
+Commit 3 after creating pull request
