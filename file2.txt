@@ -1,1 +1,4 @@
 1st commit from master to file2
+1st commit from fork to file2
+2nd commit from fork to file2
+3rd commit from fork to file2
