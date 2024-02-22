@@ -4,3 +4,9 @@ Commit after creating pull request
 Commit 2 after creating pull request
 
 Commit 3 after creating pull request
+
+Commit 1
+
+Commit 2
+
+Commit 3
