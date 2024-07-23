@@ -1,6 +1,4 @@
-1st commit to file1 from master
-Commit after creating pull request
-
-Commit 2 after creating pull request
-
-Commit 3 after creating pull request
+1st Commit from feature branch before pull request
+2nd Commit from feature branch after pull request
+3rd Commit from feature branch after pull request
+4rd Commit from feature branch after pull request
